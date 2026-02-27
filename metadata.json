@@ -1,0 +1,5 @@
+{
+  "name": "TaskTracker",
+  "description": "A mission-critical dashboard to track, manage, and accelerate the decommission of legacy AWS 1.0 infrastructure by the February 26th deadline, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
